@@ -11,7 +11,7 @@
       background: linear-gradient(to bottom right, #ff1e56, #ffac41);
       color: #fff;
       text-align: center;
-      background-image: url('https://i.ibb.co/7yVptQ8/christmas-bg.jpg');
+      background-image: url('https://sl.bing.net/isBiq271ZdY');
       background-size: cover;
       background-position: center;
       backdrop-filter: brightness(0.8);
