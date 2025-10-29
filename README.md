@@ -11,7 +11,7 @@
       background: linear-gradient(to bottom right, #ff1e56, #ffac41);
       color: #fff;
       text-align: center;
-      background-image: url('https://sl.bing.net/isBiq271ZdY');
+      background-image: url('https://clipart-library.com/img/1922000.gif');
       background-size: cover;
       background-position: center;
       backdrop-filter: brightness(0.8);
